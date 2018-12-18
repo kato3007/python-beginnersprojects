@@ -7,7 +7,6 @@ print ("Hello " + name + " you are " + str(age))
 import datetime
 from datetime import date
 today = date.today().year
-print (today)
 
 when_100 = ((today-age)+100)
 
